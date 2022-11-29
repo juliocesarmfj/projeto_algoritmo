@@ -1,10 +1,10 @@
 # projeto_algoritmo
 
-Nome: Gabriel Nunes De Souza\n
-Matricula: UC22200353\n
+Nome: Gabriel Nunes De Souza
+Matricula: UC22200353
 
-Nome: Guilherme Ferreira Silva\n
-Matricula: UC22200632\n
+Nome: Guilherme Ferreira Silva
+Matricula: UC22200632
 
-Nome: Júlio César Silva de Moura Fé\n
+Nome: Júlio César Silva de Moura Fé
 Matricula: UC22200353
