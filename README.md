@@ -1,2 +1,10 @@
 # projeto_algoritmo
-Ultimo projeto da matéria de algoritmo e programação da UCB
+
+Nome: Gabriel Nunes De Souza
+Matricula: UC22200353
+
+Nome: Guilherme Ferreira Silva
+Matricula: UC22200632
+
+Nome: Júlio César Silva de Moura Fé
+Matricula: UC22200353
