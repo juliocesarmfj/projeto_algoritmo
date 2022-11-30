@@ -1,7 +1,7 @@
 # projeto_algoritmo
 
 Nome: Gabriel Nunes De Souza
-Matricula: UC22200353
+Matricula: UC22200723
 
 Nome: Guilherme Ferreira Silva
 Matricula: UC22200632
